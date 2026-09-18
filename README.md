@@ -1,48 +1,23 @@
-## Hi there 👋 
+### Hi there 👋
 
-<!--
-** [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm+SeeleZaych%2C+an+undergraduate+from+SJTU.)](https://git.io/typing-svg)
--->
+🎓 Education
 
-I'm TripleCamellya, an undergraduate from SJTU, and I will continue to pursue a master's degree 🎓 in IST lab of SJTU.
+Master candidate at Shanghai Jiao Tong University (SJTU), also earned my bachelor's degree from SJTU.
 
+💡 Tech Interests
 
-I hope OSPP can be my start of open source contirbution.
+My main tech stack includes Java, JavaScript and Python. I keep exploring AI, Agent, microservice system and data architecture.
 
+I’m fascinated by how open‑source communities build powerful systems collaboratively.
 
-What I'm studying or interested in:
+🌱 Open‑source Experience
 
+- 📌 2025 GSoC applicant. Not selected, yet it served as my first formal open‑source experience and helped me learn the full contribution workflow.
+- 📌 2025 OSPP participant. Contributed to the [piflow](https://github.com/cas-bigdatalab/piflow) project, developed reading and writing connectors for OpenGauss and KingbaseES.
 
-* 🤖 Machine Learning in CV, TS
+🚀 What I'm looking for
 
+I am actively seeking open‑source communities and projects related to Agent and web‑domain contributions.
+I hope to make my own contributions to the community!
 
-* 🌐 Web Service
-
-
-* 📅 Database
-
-
-
-
-✨ I hope to make my own contributions to the community!
-
-
-
-
-📫 How to reach me: 3175989593@qq.com or acrossthewallfhh@gmail.com
-
-
-<!--
-**SeeleZaych/SeeleZaych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me: 3175989593@qq.com or acrossthewallfhh@gmail.com
